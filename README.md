@@ -13,9 +13,9 @@ I'm passionate about building efficient, scalable, and user-friendly web applica
 My Skills and Tools:
 
     Languages: PHP, JavaScript, Java, Golang
-    Frameworks: Laravel, CodeIgniter, Vue.js, React.js, Node.js
+    Frameworks: Laravel, CodeIgniter, Vue.js
     Web Development: HTML, CSS, AJAX
-    Database: MySQL, PostgreSQL
+    Database: MySQL, PostgreSQL, Oracle
     Tools: Visual Studio Code, Git, Microsoft Office Suite
     Others: Software Analysis, Quality Assurance
 
@@ -23,13 +23,10 @@ GitHub Stats:
 
 Featured Projects:
 
-    Project Name 1: Brief description of the project.
-    Project Name 2: Brief description of the project.
-    Project Name 3: Brief description of the project.
+    Project Name 1: Sita (Sistem informasi Tugas Akhir)
+    Project Name 2: Point Of Sale
 
 Let's Connect:
 
     LinkedIn: linkedin.com/in/adhimulhaq
     Email: 17adhim@gmail.com
-
-This profile highlights your skills, experience, and interests in a concise and professional manner. Feel free to customize the links, stats, and project descriptions to reflect your actual projects and achievements.
